@@ -1,0 +1,5 @@
+FixtureID,team1,team2,goalDiff,prob_team1,prob_team2,prob_draw,WC_win_team1_prob,WC_win_team2_prob
+57,France,Uruguay,1,0.526,0.266,0.208,0.07,0.03
+58,Brazil,Belgium,1,0.675,0.124,0.202,0.4,0.1
+59,Sweden,England,2,0.178,0.57,0.252,0.05,0.2
+60,Russia,Croatia,0,0.335,0.327,0.338,0.1,0.05
